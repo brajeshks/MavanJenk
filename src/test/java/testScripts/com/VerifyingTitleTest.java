@@ -5,7 +5,7 @@ import org.testng.asserts.SoftAssert;
 
 import generics.com.BaseClass;
 
-public class VerifyingTitle extends BaseClass{
+public class VerifyingTitleTest extends BaseClass{
 @Test
 public void testhomePageTitle()
 {
